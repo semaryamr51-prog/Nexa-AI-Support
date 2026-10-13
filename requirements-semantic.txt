@@ -1,0 +1,5 @@
+-r requirements-llm.txt
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+sentence-transformers>=2.7
+faiss-cpu>=1.8

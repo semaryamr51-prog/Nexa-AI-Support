@@ -1,0 +1,69 @@
+{
+  "seed": 42,
+  "split": "template-grouped",
+  "note": "Metrics from recorded training stdout rounded to 3 decimals. Training session interrupted after epoch 10; bundled checkpoint is best validation epoch 6.",
+  "best_epoch": 6,
+  "best_validation_macro_f1_rounded": 0.71,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 1.246,
+      "val_accuracy": 0.663,
+      "val_macro_f1": 0.445
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.892,
+      "val_accuracy": 0.654,
+      "val_macro_f1": 0.428
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.536,
+      "val_accuracy": 0.702,
+      "val_macro_f1": 0.541
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.24,
+      "val_accuracy": 0.779,
+      "val_macro_f1": 0.64
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.095,
+      "val_accuracy": 0.837,
+      "val_macro_f1": 0.703
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.043,
+      "val_accuracy": 0.846,
+      "val_macro_f1": 0.71
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.023,
+      "val_accuracy": 0.817,
+      "val_macro_f1": 0.647
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.014,
+      "val_accuracy": 0.788,
+      "val_macro_f1": 0.625
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.009,
+      "val_accuracy": 0.779,
+      "val_macro_f1": 0.619
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.006,
+      "val_accuracy": 0.779,
+      "val_macro_f1": 0.619
+    }
+  ]
+}

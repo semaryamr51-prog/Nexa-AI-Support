@@ -1,0 +1,5 @@
+-r requirements.txt
+# Optional Groq / Ollama adapters, accessed only when configured.
+langchain-core>=0.3
+langchain-groq>=0.2
+langchain-ollama>=0.2

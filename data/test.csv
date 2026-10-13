@@ -1,0 +1,116 @@
+text,label
+How do I book a seat in the Web Development Bootcamp live workshop?,booking
+I need to reschedule my session that was set for the 22nd.,booking
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+Is there a student discount available for Intro to Python?,billing
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I can't upload my project file, it says a blank white screen.",technical
+"I need a refund for Intro to Python, order INV-2091.",billing
+What are the prerequisites for Deep Learning Foundations?,general
+"I need a refund for Intro to Python, order INV-3345.",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I need a refund for React from Scratch, order INV-1187.",billing
+The quiz timer freezes on Safari on Mac during Web Development Bootcamp.,technical
+I keep getting the quiz not saving my answers whenever I submit an assignment.,technical
+"I want to cancel my booking for this Friday, is that possible?",booking
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+How long does it typically take to finish Cloud Computing Basics?,general
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+"I need a refund for Machine Learning 101, order INV-5502.",billing
+The quiz timer freezes on Firefox during Deep Learning Foundations.,technical
+Is there a student discount available for Cloud Computing Basics?,billing
+The quiz timer freezes on Firefox during Cloud Computing Basics.,technical
+I keep getting the app crashing on login whenever I submit an assignment.,technical
+"I can't upload my project file, it says the app crashing on login.",technical
+"I need a refund for Web Development Bootcamp, order INV-1187.",billing
+"I need a refund for Advanced SQL, order INV-1187.",billing
+The quiz timer freezes on Firefox during Data Structures.,technical
+How long does it typically take to finish React from Scratch?,general
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I need a refund for Cloud Computing Basics, order INV-8820.",billing
+"I want to cancel my booking for March 14th, is that possible?",booking
+Is there a student discount available for Deep Learning Foundations?,billing
+"I can't upload my project file, it says the page freezing on submit.",technical
+How do I book a seat in the Intro to Python live workshop?,booking
+I need to reschedule my session that was set for next Monday.,booking
+What are the prerequisites for Cloud Computing Basics?,general
+"I can't upload my project file, it says Error 403.",technical
+How do I book a seat in the Machine Learning 101 live workshop?,booking
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+How do I book a seat in the Deep Learning Foundations live workshop?,booking
+How long does it typically take to finish Web Development Bootcamp?,general
+"I need a refund for Data Structures, order INV-5502.",billing
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+What are the prerequisites for Data Structures?,general
+"I can't upload my project file, it says 'video failed to load'.",technical
+"I need a refund for Intro to Python, order INV-1187.",billing
+How do I book a seat in the React from Scratch live workshop?,booking
+I need to reschedule my session that was set for Thursday morning.,booking
+What are the prerequisites for Intro to Python?,general
+The quiz timer freezes on my iPhone during Cloud Computing Basics.,technical
+The quiz timer freezes on Chrome on Windows during Deep Learning Foundations.,technical
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I want to cancel my booking for next week, is that possible?",booking
+The quiz timer freezes on Firefox during Advanced SQL.,technical
+The quiz timer freezes on my iPhone during Deep Learning Foundations.,technical
+I keep getting Error 403 whenever I submit an assignment.,technical
+Is there a student discount available for Machine Learning 101?,billing
+The quiz timer freezes on my iPhone during Machine Learning 101.,technical
+The quiz timer freezes on an iPad during Data Structures.,technical
+"I can't upload my project file, it says the quiz not saving my answers.",technical
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+The quiz timer freezes on the Android app during Web Development Bootcamp.,technical
+I keep getting 'video failed to load' whenever I submit an assignment.,technical
+"I need a refund for React from Scratch, order INV-5502.",billing
+How do I update my email address on file?,general
+"I need a refund for Machine Learning 101, order INV-1187.",billing
+How long does it typically take to finish Machine Learning 101?,general
+The quiz timer freezes on the Android app during React from Scratch.,technical
+The quiz timer freezes on my iPhone during Web Development Bootcamp.,technical
+How do I book a seat in the Data Structures live workshop?,booking
+How long does it typically take to finish Advanced SQL?,general
+I need to reschedule my session that was set for this Friday.,booking
+I keep getting the page freezing on submit whenever I submit an assignment.,technical
+Is there a student discount available for Advanced SQL?,billing
+The quiz timer freezes on my iPhone during Data Structures.,technical
+"I can't upload my project file, it says a 500 server error.",technical
+"I need a refund for Web Development Bootcamp, order INV-5502.",billing
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+"I need a refund for Data Structures, order INV-1187.",billing
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+"I need a refund for Data Structures, order INV-2091.",billing
+The quiz timer freezes on Chrome on Windows during Intro to Python.,technical
+The quiz timer freezes on an iPad during Intro to Python.,technical
+I need to reschedule my session that was set for March 14th.,booking
+Is there a student discount available for React from Scratch?,billing
+I need to reschedule my session that was set for next week.,booking
+How do I book a seat in the Advanced SQL live workshop?,booking
+"I want to cancel my booking for next Monday, is that possible?",booking
+Is there a student discount available for Data Structures?,billing
+"I need a refund for Deep Learning Foundations, order INV-8820.",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+What are the prerequisites for Web Development Bootcamp?,general
+"I need a refund for Cloud Computing Basics, order INV-3345.",billing
+What are the prerequisites for Advanced SQL?,general
+Is there a student discount available for Web Development Bootcamp?,billing
+"I need a refund for Intro to Python, order INV-8820.",billing
+"I want to cancel my booking for Thursday morning, is that possible?",booking
+How long does it typically take to finish Intro to Python?,general
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+What are the prerequisites for React from Scratch?,general
+I need to reschedule my session that was set for tomorrow at 5 PM.,booking
+I keep getting a 500 server error whenever I submit an assignment.,technical
+How long does it typically take to finish Data Structures?,general
+The quiz timer freezes on Safari on Mac during Advanced SQL.,technical
+"I want to cancel my booking for the 22nd, is that possible?",booking
+How do I book a seat in the Cloud Computing Basics live workshop?,booking
+The quiz timer freezes on Safari on Mac during Machine Learning 101.,technical
+I keep getting a blank white screen whenever I submit an assignment.,technical
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I need a refund for Web Development Bootcamp, order INV-8820.",billing
+"I want to cancel my booking for tomorrow at 5 PM, is that possible?",booking
+What are the prerequisites for Machine Learning 101?,general
+How long does it typically take to finish Deep Learning Foundations?,general

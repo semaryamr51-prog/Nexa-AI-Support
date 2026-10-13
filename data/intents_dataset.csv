@@ -1,0 +1,628 @@
+text,label
+Are there any open slots for career coaching tomorrow at 5 PM?,booking
+What topics are covered in Advanced SQL?,general
+Can you apply my coupon code retroactively to invoice INV-8820?,billing
+What times are available this week for Data Structures help sessions?,booking
+What topics are covered in Machine Learning 101?,general
+"My card was billed twice for React from Scratch, invoice number INV-1187.",billing
+Downloads for React from Scratch materials are failing with Error 403.,technical
+"My card was billed twice for Advanced SQL, invoice number INV-1187.",billing
+Do you offer installment payments for React from Scratch?,billing
+Is Data Structures suitable for complete beginners?,general
+Can I switch from Advanced SQL to a different course later?,general
+How do I reset my password? The reset email never arrives.,technical
+My screen just shows a 500 server error whenever I try to join a live session.,technical
+The certificate for Cloud Computing Basics won't generate after I finished it.,technical
+The mobile app crashes every time I open Machine Learning 101 on Safari on Mac.,technical
+Can I access Web Development Bootcamp materials after the course ends?,general
+My account shows the wrong course list after I switched to an iPad.,technical
+"I missed my slot, can we rebook for this Friday?",booking
+When does my subscription renew and how much will it cost?,billing
+I'd like to move my mentoring call to March 14th instead.,booking
+The certificate for Machine Learning 101 won't generate after I finished it.,technical
+"My card was billed twice for Cloud Computing Basics, invoice number INV-5502.",billing
+The certificate for Advanced SQL won't generate after I finished it.,technical
+Do you offer installment payments for Machine Learning 101?,billing
+"I missed my slot, can we rebook for next week?",booking
+Downloads for Machine Learning 101 materials are failing with the page freezing on submit.,technical
+Is there a live Q&A slot available the 22nd for React from Scratch?,booking
+Please check the status of my refund request for $49.99.,billing
+Book me a reminder call before Intro to Python starts March 14th.,booking
+Can you confirm my appointment with the TA next Monday?,booking
+"I want to downgrade my plan, will I get a partial refund?",billing
+Two-factor authentication isn't sending me a code on Chrome on Windows.,technical
+Can you check if the instructor is available the 22nd?,booking
+My account shows the wrong course list after I switched to my iPhone.,technical
+I want to schedule my capstone presentation for Thursday morning.,booking
+Can you check if next Monday is open for a tutoring session?,booking
+Downloads for Deep Learning Foundations materials are failing with the quiz not saving my answers.,technical
+The mobile app crashes every time I open Web Development Bootcamp on Safari on Mac.,technical
+Is the study group for Advanced SQL meeting March 14th?,booking
+The mobile app crashes every time I open Cloud Computing Basics on Chrome on Windows.,technical
+Book me a reminder call before Cloud Computing Basics starts Thursday morning.,booking
+Downloads for Cloud Computing Basics materials are failing with 'video failed to load'.,technical
+"I can't log in to my account from my iPhone, it keeps showing Error 403.",technical
+I'd like to schedule a 1:1 mentoring session next week.,booking
+Can you apply my coupon code retroactively to invoice INV-1187?,billing
+"Live chat support widget won't open, I only get a 500 server error.",technical
+Can I switch from Machine Learning 101 to a different course later?,general
+Can you apply my coupon code retroactively to invoice INV-2091?,billing
+I'd like to schedule a 1:1 mentoring session next Monday.,booking
+Can I access Intro to Python materials after the course ends?,general
+Do you offer installment payments for Cloud Computing Basics?,billing
+The code editor for Cloud Computing Basics is stuck loading on Firefox.,technical
+Is there a live Q&A slot available March 14th for Machine Learning 101?,booking
+I'd like to schedule a 1:1 mentoring session this Friday.,booking
+"Just wanted to say thanks, the Intro to Python content was great!",general
+My account shows the wrong course list after I switched to Firefox.,technical
+"Live chat support widget won't open, I only get 'video failed to load'.",technical
+The certificate for React from Scratch won't generate after I finished it.,technical
+The mobile app crashes every time I open Web Development Bootcamp on the Android app.,technical
+"The videos in Intro to Python won't play, I just see the app crashing on login.",technical
+Please check the status of my refund request for $9.99.,billing
+What times are available this week for Intro to Python help sessions?,booking
+Can I access Machine Learning 101 materials after the course ends?,general
+I'd like to move my mentoring call to the 22nd instead.,booking
+Is the study group for Deep Learning Foundations meeting the 22nd?,booking
+"I can't log in to my account from Safari on Mac, it keeps showing a 500 server error.",technical
+My screen just shows Error 403 whenever I try to join a live session.,technical
+Can you apply my coupon code retroactively to invoice INV-5502?,billing
+Downloads for Data Structures materials are failing with the quiz not saving my answers.,technical
+Do I get a certificate after completing Data Structures?,general
+The dark mode setting keeps resetting every time I reopen Safari on Mac.,technical
+Can I switch from Cloud Computing Basics to a different course later?,general
+"My card was billed twice for Intro to Python, invoice number INV-8820.",billing
+Is there a known issue with my iPhone and the course player?,technical
+My account shows the wrong course list after I switched to the Android app.,technical
+Please check the status of my refund request for $249.,billing
+What languages is Cloud Computing Basics available in?,general
+The mobile app crashes every time I open Advanced SQL on an iPad.,technical
+"The videos in Cloud Computing Basics won't play, I just see Error 403.",technical
+"I can't log in to my account from the Android app, it keeps showing a blank white screen.",technical
+"My card was billed twice for Advanced SQL, invoice number INV-8820.",billing
+Is there a community forum for Machine Learning 101 students?,general
+Is there a live Q&A slot available this Friday for Cloud Computing Basics?,booking
+Can I switch from React from Scratch to a different course later?,general
+"My card was billed twice for Web Development Bootcamp, invoice number INV-1187.",billing
+I'd like to schedule a 1:1 mentoring session March 14th.,booking
+Is there a live Q&A slot available this Friday for Data Structures?,booking
+Downloads for Deep Learning Foundations materials are failing with the page freezing on submit.,technical
+"The price for Deep Learning Foundations changed after I enrolled, can you explain?",billing
+Book me a reminder call before React from Scratch starts Thursday morning.,booking
+My account shows the wrong course list after I switched to Safari on Mac.,technical
+My screen just shows the quiz not saving my answers whenever I try to join a live session.,technical
+Is there a live Q&A slot available Thursday morning for Web Development Bootcamp?,booking
+My screen just shows the page freezing on submit whenever I try to join a live session.,technical
+The mobile app crashes every time I open Web Development Bootcamp on an iPad.,technical
+The code editor for Deep Learning Foundations is stuck loading on Chrome on Windows.,technical
+Is the study group for Machine Learning 101 meeting March 14th?,booking
+Please check availability for a make-up exam session March 14th.,booking
+I want to schedule my capstone presentation for tomorrow at 5 PM.,booking
+Can I switch from Deep Learning Foundations to a different course later?,general
+The code editor for Intro to Python is stuck loading on my iPhone.,technical
+"The videos in Machine Learning 101 won't play, I just see a blank white screen.",technical
+"Live chat support widget won't open, I only get the page freezing on submit.",technical
+"I can't log in to my account from Safari on Mac, it keeps showing 'video failed to load'.",technical
+Is the study group for React from Scratch meeting March 14th?,booking
+Is there a live Q&A slot available Thursday morning for Data Structures?,booking
+Downloads for Cloud Computing Basics materials are failing with Error 403.,technical
+Downloads for Web Development Bootcamp materials are failing with a 500 server error.,technical
+I cancelled last month but I was still charged $9.99.,billing
+What times are available this week for Deep Learning Foundations help sessions?,booking
+Can you confirm my appointment with the TA the 22nd?,booking
+Is there a known issue with Safari on Mac and the course player?,technical
+Do I get a certificate after completing Cloud Computing Basics?,general
+What times are available this week for Advanced SQL help sessions?,booking
+The mobile app crashes every time I open React from Scratch on the Android app.,technical
+"My payment for Intro to Python failed, what should I do?",billing
+Please check availability for a make-up exam session this Friday.,booking
+Book me a reminder call before Advanced SQL starts tomorrow at 5 PM.,booking
+Is the study group for Data Structures meeting March 14th?,booking
+Can you apply my coupon code retroactively to invoice INV-3345?,billing
+"The price for Cloud Computing Basics changed after I enrolled, can you explain?",billing
+The code editor for Intro to Python is stuck loading on Safari on Mac.,technical
+Is there a community forum for Intro to Python students?,general
+Can you check if the instructor is available next Monday?,booking
+Downloads for Deep Learning Foundations materials are failing with a 500 server error.,technical
+Is there a live Q&A slot available this Friday for Web Development Bootcamp?,booking
+The code editor for Deep Learning Foundations is stuck loading on the Android app.,technical
+"My payment for Cloud Computing Basics failed, what should I do?",billing
+"My card was billed twice for Web Development Bootcamp, invoice number INV-2091.",billing
+Downloads for Advanced SQL materials are failing with Error 403.,technical
+"My card was billed twice for Deep Learning Foundations, invoice number INV-8820.",billing
+Why is my invoice INV-8820 still marked as unpaid?,billing
+Can I switch from Intro to Python to a different course later?,general
+The code editor for React from Scratch is stuck loading on Safari on Mac.,technical
+I'd like to move my mentoring call to Thursday morning instead.,booking
+The dark mode setting keeps resetting every time I reopen Chrome on Windows.,technical
+Are there any open slots for career coaching Thursday morning?,booking
+I cancelled last month but I was still charged $249.,billing
+Two-factor authentication isn't sending me a code on my iPhone.,technical
+The certificate for Data Structures won't generate after I finished it.,technical
+"I'm seeing Error 403 on the checkout page, but this isn't about payment.",technical
+Two-factor authentication isn't sending me a code on the Android app.,technical
+I want to schedule my capstone presentation for next Monday.,booking
+Can I switch from Web Development Bootcamp to a different course later?,general
+"I'm seeing the app crashing on login on the checkout page, but this isn't about payment.",technical
+"I'm seeing a 500 server error on the checkout page, but this isn't about payment.",technical
+"The videos in Cloud Computing Basics won't play, I just see 'video failed to load'.",technical
+Can you check if the 22nd is open for a tutoring session?,booking
+Can you check if March 14th is open for a tutoring session?,booking
+Is the study group for Web Development Bootcamp meeting next Monday?,booking
+Is the study group for React from Scratch meeting Thursday morning?,booking
+Is there a live Q&A slot available Thursday morning for Advanced SQL?,booking
+I want to schedule my capstone presentation for this Friday.,booking
+The mobile app crashes every time I open Cloud Computing Basics on Safari on Mac.,technical
+"I can't log in to my account from Firefox, it keeps showing a 500 server error.",technical
+What's your policy on course completion deadlines?,general
+Is there a community forum for Advanced SQL students?,general
+I cancelled last month but I was still charged $49.99.,billing
+The certificate for Deep Learning Foundations won't generate after I finished it.,technical
+Do you offer installment payments for Web Development Bootcamp?,billing
+Are there any open slots for career coaching the 22nd?,booking
+"I can't log in to my account from my iPhone, it keeps showing a blank white screen.",technical
+Book me a reminder call before Advanced SQL starts this Friday.,booking
+Are there any open slots for career coaching next week?,booking
+Is there a live Q&A slot available next week for Intro to Python?,booking
+The certificate for Web Development Bootcamp won't generate after I finished it.,technical
+Downloads for Web Development Bootcamp materials are failing with a blank white screen.,technical
+"Just wanted to say thanks, the Web Development Bootcamp content was great!",general
+"I can't log in to my account from an iPad, it keeps showing the app crashing on login.",technical
+I want to schedule my capstone presentation for next week.,booking
+Downloads for Machine Learning 101 materials are failing with a blank white screen.,technical
+"I was double-charged this month, please check my account.",billing
+What languages is Data Structures available in?,general
+"I'm seeing the page freezing on submit on the checkout page, but this isn't about payment.",technical
+Is Web Development Bootcamp suitable for complete beginners?,general
+My screen just shows 'video failed to load' whenever I try to join a live session.,technical
+What topics are covered in Intro to Python?,general
+"Just wanted to say thanks, the Advanced SQL content was great!",general
+"I missed my slot, can we rebook for next Monday?",booking
+"My card was billed twice for Machine Learning 101, invoice number INV-2091.",billing
+"My payment for Machine Learning 101 failed, what should I do?",billing
+The mobile app crashes every time I open React from Scratch on my iPhone.,technical
+Can I access Deep Learning Foundations materials after the course ends?,general
+"I can't log in to my account from my iPhone, it keeps showing 'video failed to load'.",technical
+"I can't log in to my account from Safari on Mac, it keeps showing the page freezing on submit.",technical
+The dark mode setting keeps resetting every time I reopen the Android app.,technical
+I cancelled last month but I was still charged $120.,billing
+The code editor for Machine Learning 101 is stuck loading on Safari on Mac.,technical
+What topics are covered in Web Development Bootcamp?,general
+Can you confirm my appointment with the TA Thursday morning?,booking
+The code editor for Advanced SQL is stuck loading on the Android app.,technical
+"I'm seeing the quiz not saving my answers on the checkout page, but this isn't about payment.",technical
+"The price for Machine Learning 101 changed after I enrolled, can you explain?",billing
+"The videos in Machine Learning 101 won't play, I just see Error 403.",technical
+Do I get a certificate after completing Web Development Bootcamp?,general
+What languages is Web Development Bootcamp available in?,general
+The code editor for Data Structures is stuck loading on the Android app.,technical
+"The videos in Deep Learning Foundations won't play, I just see the page freezing on submit.",technical
+Can you confirm my appointment with the TA March 14th?,booking
+Is Machine Learning 101 suitable for complete beginners?,general
+I'd like to schedule a 1:1 mentoring session tomorrow at 5 PM.,booking
+Please check availability for a make-up exam session next Monday.,booking
+Book me a reminder call before Advanced SQL starts Thursday morning.,booking
+"Is my data private, and what's your privacy policy?",general
+"The videos in Cloud Computing Basics won't play, I just see the quiz not saving my answers.",technical
+What languages is Advanced SQL available in?,general
+Is the study group for Machine Learning 101 meeting this Friday?,booking
+"The videos in React from Scratch won't play, I just see a blank white screen.",technical
+"Live chat support widget won't open, I only get Error 403.",technical
+Can I access Advanced SQL materials after the course ends?,general
+Do you have a mobile app for offline learning?,general
+Is there a known issue with Firefox and the course player?,technical
+Is the study group for Intro to Python meeting next week?,booking
+Downloads for Advanced SQL materials are failing with a blank white screen.,technical
+The mobile app crashes every time I open Data Structures on my iPhone.,technical
+I'd like to schedule a 1:1 mentoring session the 22nd.,booking
+"The videos in Deep Learning Foundations won't play, I just see the quiz not saving my answers.",technical
+Do you offer installment payments for Deep Learning Foundations?,billing
+Please check availability for a make-up exam session Thursday morning.,booking
+Is Cloud Computing Basics suitable for complete beginners?,general
+I want to schedule my capstone presentation for March 14th.,booking
+"The videos in Deep Learning Foundations won't play, I just see a 500 server error.",technical
+Two-factor authentication isn't sending me a code on Firefox.,technical
+Is there a live Q&A slot available next week for React from Scratch?,booking
+Is there a live Q&A slot available next week for Advanced SQL?,booking
+"The price for Intro to Python changed after I enrolled, can you explain?",billing
+Can I switch from Data Structures to a different course later?,general
+Is the study group for React from Scratch meeting the 22nd?,booking
+Do you offer team or corporate plans?,general
+"My payment for Data Structures failed, what should I do?",billing
+What payment methods do you accept?,billing
+"Live chat support widget won't open, I only get the quiz not saving my answers.",technical
+Two-factor authentication isn't sending me a code on Safari on Mac.,technical
+Can I access Data Structures materials after the course ends?,general
+What topics are covered in React from Scratch?,general
+Is there a community forum for Web Development Bootcamp students?,general
+"The videos in Advanced SQL won't play, I just see Error 403.",technical
+"Live chat support widget won't open, I only get a blank white screen.",technical
+Can you confirm my appointment with the TA tomorrow at 5 PM?,booking
+"My payment for React from Scratch failed, what should I do?",billing
+My screen just shows the app crashing on login whenever I try to join a live session.,technical
+What times are available this week for Web Development Bootcamp help sessions?,booking
+The code editor for Advanced SQL is stuck loading on Chrome on Windows.,technical
+Downloads for Data Structures materials are failing with a 500 server error.,technical
+"My card was billed twice for Data Structures, invoice number INV-1187.",billing
+Why is my invoice INV-1187 still marked as unpaid?,billing
+Can you confirm my appointment with the TA this Friday?,booking
+"I can't log in to my account from Firefox, it keeps showing the page freezing on submit.",technical
+Do I get a certificate after completing Machine Learning 101?,general
+The code editor for React from Scratch is stuck loading on the Android app.,technical
+The code editor for Cloud Computing Basics is stuck loading on Safari on Mac.,technical
+Is there a community forum for Data Structures students?,general
+"The videos in Web Development Bootcamp won't play, I just see the app crashing on login.",technical
+"I can't log in to my account from Chrome on Windows, it keeps showing a blank white screen.",technical
+"Just wanted to say thanks, the Data Structures content was great!",general
+The mobile app crashes every time I open Data Structures on Safari on Mac.,technical
+Why is my invoice INV-2091 still marked as unpaid?,billing
+"I'm seeing a blank white screen on the checkout page, but this isn't about payment.",technical
+Is there a community forum for Deep Learning Foundations students?,general
+The certificate for Intro to Python won't generate after I finished it.,technical
+Can you check if the instructor is available Thursday morning?,booking
+Is the study group for Web Development Bootcamp meeting the 22nd?,booking
+Book me a reminder call before Advanced SQL starts the 22nd.,booking
+Book me a reminder call before Advanced SQL starts next week.,booking
+Is the study group for Advanced SQL meeting the 22nd?,booking
+Book me a reminder call before Intro to Python starts Thursday morning.,booking
+The mobile app crashes every time I open Deep Learning Foundations on my iPhone.,technical
+"My card was billed twice for Intro to Python, invoice number INV-5502.",billing
+"The videos in Intro to Python won't play, I just see a 500 server error.",technical
+Are there any open slots for career coaching next Monday?,booking
+"I missed my slot, can we rebook for March 14th?",booking
+The dark mode setting keeps resetting every time I reopen Firefox.,technical
+The code editor for Data Structures is stuck loading on my iPhone.,technical
+Is the study group for React from Scratch meeting tomorrow at 5 PM?,booking
+The code editor for Intro to Python is stuck loading on an iPad.,technical
+"I can't log in to my account from Firefox, it keeps showing 'video failed to load'.",technical
+Please check the status of my refund request for $15.,billing
+Do you offer installment payments for Intro to Python?,billing
+Book me a reminder call before React from Scratch starts tomorrow at 5 PM.,booking
+Is there a known issue with the Android app and the course player?,technical
+What topics are covered in Data Structures?,general
+"I can't log in to my account from Chrome on Windows, it keeps showing the page freezing on submit.",technical
+Is there a community forum for React from Scratch students?,general
+Is there a live Q&A slot available the 22nd for Cloud Computing Basics?,booking
+Is the study group for Machine Learning 101 meeting tomorrow at 5 PM?,booking
+Downloads for Machine Learning 101 materials are failing with the quiz not saving my answers.,technical
+"Just wanted to say thanks, the React from Scratch content was great!",general
+The mobile app crashes every time I open Machine Learning 101 on Firefox.,technical
+The code editor for Data Structures is stuck loading on an iPad.,technical
+Can you check if the instructor is available tomorrow at 5 PM?,booking
+How do I update the credit card on file for my subscription?,billing
+Please check availability for a make-up exam session the 22nd.,booking
+"My card was billed twice for Web Development Bootcamp, invoice number INV-8820.",billing
+Is the study group for Web Development Bootcamp meeting March 14th?,booking
+Book me a reminder call before React from Scratch starts next Monday.,booking
+"Just wanted to say thanks, the Machine Learning 101 content was great!",general
+Is the study group for Data Structures meeting this Friday?,booking
+Please check availability for a make-up exam session next week.,booking
+"The price for Data Structures changed after I enrolled, can you explain?",billing
+"I can't log in to my account from an iPad, it keeps showing the page freezing on submit.",technical
+"My card was billed twice for Cloud Computing Basics, invoice number INV-3345.",billing
+Can I access Cloud Computing Basics materials after the course ends?,general
+How far in advance do I need to book office hours?,booking
+Are there any open slots for career coaching March 14th?,booking
+Is there a community forum for Cloud Computing Basics students?,general
+Can you check if the instructor is available this Friday?,booking
+Book me a reminder call before Machine Learning 101 starts Thursday morning.,booking
+Downloads for React from Scratch materials are failing with 'video failed to load'.,technical
+"My card was billed twice for Cloud Computing Basics, invoice number INV-8820.",billing
+The mobile app crashes every time I open Deep Learning Foundations on Firefox.,technical
+The dark mode setting keeps resetting every time I reopen an iPad.,technical
+"My payment for Advanced SQL failed, what should I do?",billing
+What languages is Intro to Python available in?,general
+Are there any open slots for career coaching this Friday?,booking
+Please check the status of my refund request for $120.,billing
+What languages is Machine Learning 101 available in?,general
+Can you check if the instructor is available March 14th?,booking
+Can you confirm my appointment with the TA next week?,booking
+I'd like to move my mentoring call to tomorrow at 5 PM instead.,booking
+What languages is Deep Learning Foundations available in?,general
+The mobile app crashes every time I open React from Scratch on an iPad.,technical
+Book me a reminder call before Deep Learning Foundations starts March 14th.,booking
+Can I get feedback on my assignments from a real instructor?,general
+Is React from Scratch suitable for complete beginners?,general
+"Just wanted to say thanks, the Deep Learning Foundations content was great!",general
+I want to schedule my capstone presentation for the 22nd.,booking
+Do I get a certificate after completing React from Scratch?,general
+Is Deep Learning Foundations suitable for complete beginners?,general
+Book me a reminder call before Machine Learning 101 starts the 22nd.,booking
+The code editor for Cloud Computing Basics is stuck loading on Chrome on Windows.,technical
+Can you check if next week is open for a tutoring session?,booking
+Why is my invoice INV-3345 still marked as unpaid?,billing
+Do you offer installment payments for Advanced SQL?,billing
+Can you check if Thursday morning is open for a tutoring session?,booking
+How do I contact support if none of these options fit?,general
+What topics are covered in Cloud Computing Basics?,general
+"I missed my slot, can we rebook for Thursday morning?",booking
+"The videos in Intro to Python won't play, I just see the quiz not saving my answers.",technical
+Book me a reminder call before Cloud Computing Basics starts the 22nd.,booking
+"I can't log in to my account from my iPhone, it keeps showing a 500 server error.",technical
+"I can't log in to my account from my iPhone, it keeps showing the app crashing on login.",technical
+I'd like to schedule a 1:1 mentoring session Thursday morning.,booking
+"My payment for Deep Learning Foundations failed, what should I do?",billing
+"The price for React from Scratch changed after I enrolled, can you explain?",billing
+I'd like to move my mentoring call to next Monday instead.,booking
+Is the study group for Data Structures meeting next Monday?,booking
+What times are available this week for React from Scratch help sessions?,booking
+"My card was billed twice for Data Structures, invoice number INV-3345.",billing
+Is there a live Q&A slot available next Monday for Deep Learning Foundations?,booking
+"My card was billed twice for Intro to Python, invoice number INV-1187.",billing
+"Just wanted to say thanks, the Cloud Computing Basics content was great!",general
+Do I get a certificate after completing Intro to Python?,general
+Do I get a certificate after completing Advanced SQL?,general
+Is Intro to Python suitable for complete beginners?,general
+"I can't log in to my account from Firefox, it keeps showing the quiz not saving my answers.",technical
+"Live chat support widget won't open, I only get the app crashing on login.",technical
+Is the study group for Deep Learning Foundations meeting next week?,booking
+Downloads for Web Development Bootcamp materials are failing with 'video failed to load'.,technical
+Can you check if this Friday is open for a tutoring session?,booking
+"My card was billed twice for Data Structures, invoice number INV-5502.",billing
+The code editor for Intro to Python is stuck loading on Firefox.,technical
+"My payment for Web Development Bootcamp failed, what should I do?",billing
+The mobile app crashes every time I open Intro to Python on Safari on Mac.,technical
+How do I cancel my subscription before the next billing cycle?,billing
+Do I get a certificate after completing Deep Learning Foundations?,general
+Downloads for Machine Learning 101 materials are failing with 'video failed to load'.,technical
+Book me a reminder call before React from Scratch starts the 22nd.,booking
+Can I access React from Scratch materials after the course ends?,general
+I'd like to move my mentoring call to next week instead.,booking
+Please check availability for a make-up exam session tomorrow at 5 PM.,booking
+"I missed my slot, can we rebook for the 22nd?",booking
+"The videos in Advanced SQL won't play, I just see the quiz not saving my answers.",technical
+"The videos in React from Scratch won't play, I just see the quiz not saving my answers.",technical
+Book me a reminder call before Cloud Computing Basics starts this Friday.,booking
+"I missed my slot, can we rebook for tomorrow at 5 PM?",booking
+Can you check if the instructor is available next week?,booking
+Is there a live Q&A slot available the 22nd for Web Development Bootcamp?,booking
+What times are available this week for Machine Learning 101 help sessions?,booking
+The code editor for Deep Learning Foundations is stuck loading on Safari on Mac.,technical
+"The videos in Web Development Bootcamp won't play, I just see Error 403.",technical
+"I'm seeing 'video failed to load' on the checkout page, but this isn't about payment.",technical
+Do you offer installment payments for Data Structures?,billing
+Is there a live Q&A slot available next week for Data Structures?,booking
+Is there a live Q&A slot available Thursday morning for Cloud Computing Basics?,booking
+"My card was billed twice for Web Development Bootcamp, invoice number INV-3345.",billing
+"The price for Web Development Bootcamp changed after I enrolled, can you explain?",billing
+What languages is React from Scratch available in?,general
+My account shows the wrong course list after I switched to Chrome on Windows.,technical
+I cancelled last month but I was still charged $15.,billing
+Is there a live Q&A slot available this Friday for Intro to Python?,booking
+"The videos in Deep Learning Foundations won't play, I just see Error 403.",technical
+Two-factor authentication isn't sending me a code on an iPad.,technical
+Why is my invoice INV-5502 still marked as unpaid?,billing
+"I can't log in to my account from Firefox, it keeps showing the app crashing on login.",technical
+Is there a known issue with an iPad and the course player?,technical
+Book me a reminder call before Cloud Computing Basics starts tomorrow at 5 PM.,booking
+Is there a live Q&A slot available the 22nd for Advanced SQL?,booking
+I'd like to move my mentoring call to this Friday instead.,booking
+The mobile app crashes every time I open Data Structures on an iPad.,technical
+Can you check if tomorrow at 5 PM is open for a tutoring session?,booking
+The dark mode setting keeps resetting every time I reopen my iPhone.,technical
+My screen just shows a blank white screen whenever I try to join a live session.,technical
+Is there a known issue with Chrome on Windows and the course player?,technical
+"The price for Advanced SQL changed after I enrolled, can you explain?",billing
+The mobile app crashes every time I open Advanced SQL on Chrome on Windows.,technical
+What topics are covered in Deep Learning Foundations?,general
+What times are available this week for Cloud Computing Basics help sessions?,booking
+Is Advanced SQL suitable for complete beginners?,general
+Can you tell me why invoice INV-1187 shows $9.99 instead of the price I saw?,billing
+I'm getting the page freezing on submit when I try to open Data Structures on Safari on Mac.,technical
+The captions are out of sync in Data Structures videos.,technical
+Can I get a receipt for invoice INV-2091?,billing
+What's the difference between the free and paid version of Intro to Python?,general
+What's the difference between the free and paid version of Deep Learning Foundations?,general
+Can I reserve a spot in the this Friday cohort kickoff call?,booking
+Can you tell me why invoice INV-2091 shows $120 instead of the price I saw?,billing
+Can you tell me why invoice INV-3345 shows $15 instead of the price I saw?,billing
+"My progress in Cloud Computing Basics isn't saving, is this a known bug?",technical
+I'm getting the app crashing on login when I try to open Deep Learning Foundations on Chrome on Windows.,technical
+Can I book office hours with the instructor for React from Scratch next week?,booking
+I'm getting the app crashing on login when I try to open Advanced SQL on my iPhone.,technical
+"I need an official invoice for my company reimbursement, order INV-5502.",billing
+What's the difference between the free and paid version of Machine Learning 101?,general
+I'm getting 'video failed to load' when I try to open Machine Learning 101 on Chrome on Windows.,technical
+Can you tell me why invoice INV-8820 shows $9.99 instead of the price I saw?,billing
+Can I book office hours with the instructor for Advanced SQL this Friday?,booking
+Is the 22nd still free for a portfolio review session?,booking
+The captions are out of sync in Intro to Python videos.,technical
+I'm getting a 500 server error when I try to open Data Structures on Chrome on Windows.,technical
+Can you tell me why invoice INV-2091 shows $49.99 instead of the price I saw?,billing
+Can I book office hours with the instructor for Intro to Python Thursday morning?,booking
+Can you tell me why invoice INV-1187 shows $49.99 instead of the price I saw?,billing
+Can you tell me why invoice INV-2091 shows $15 instead of the price I saw?,billing
+Is next week still free for a portfolio review session?,booking
+"My progress in Machine Learning 101 isn't saving, is this a known bug?",technical
+I'm getting 'video failed to load' when I try to open Data Structures on the Android app.,technical
+Is tomorrow at 5 PM still free for a portfolio review session?,booking
+"I need an official invoice for my company reimbursement, order INV-1187.",billing
+Can you tell me why invoice INV-3345 shows $9.99 instead of the price I saw?,billing
+What's the difference between the free and paid version of Advanced SQL?,general
+Can I book office hours with the instructor for Deep Learning Foundations the 22nd?,booking
+Can I reserve a spot in the next Monday cohort kickoff call?,booking
+The captions are out of sync in Web Development Bootcamp videos.,technical
+Can I book office hours with the instructor for Advanced SQL tomorrow at 5 PM?,booking
+Is March 14th still free for a portfolio review session?,booking
+Can you tell me why invoice INV-8820 shows $15 instead of the price I saw?,billing
+Can I reserve a spot in the the 22nd cohort kickoff call?,booking
+The captions are out of sync in React from Scratch videos.,technical
+Can I book office hours with the instructor for Data Structures tomorrow at 5 PM?,booking
+Can I book office hours with the instructor for Intro to Python March 14th?,booking
+Can I book office hours with the instructor for React from Scratch this Friday?,booking
+I'm getting a 500 server error when I try to open Intro to Python on Firefox.,technical
+Can I book office hours with the instructor for Cloud Computing Basics the 22nd?,booking
+Can I get a transcript of my course history?,general
+I'm getting a blank white screen when I try to open Web Development Bootcamp on Firefox.,technical
+I'm getting the page freezing on submit when I try to open Data Structures on Firefox.,technical
+Can I reserve a spot in the Thursday morning cohort kickoff call?,booking
+Can you tell me why invoice INV-5502 shows $49.99 instead of the price I saw?,billing
+Can you tell me why invoice INV-8820 shows $120 instead of the price I saw?,billing
+Can you tell me why invoice INV-8820 shows $49.99 instead of the price I saw?,billing
+I'm getting 'video failed to load' when I try to open Advanced SQL on the Android app.,technical
+"My progress in Web Development Bootcamp isn't saving, is this a known bug?",technical
+Can I get a receipt for invoice INV-5502?,billing
+"My progress in React from Scratch isn't saving, is this a known bug?",technical
+Can I reserve a spot in the tomorrow at 5 PM cohort kickoff call?,booking
+I'm getting a blank white screen when I try to open Cloud Computing Basics on Chrome on Windows.,technical
+Can you tell me why invoice INV-5502 shows $9.99 instead of the price I saw?,billing
+I'm getting 'video failed to load' when I try to open Machine Learning 101 on the Android app.,technical
+Can you tell me why invoice INV-5502 shows $120 instead of the price I saw?,billing
+Can you tell me why invoice INV-3345 shows $120 instead of the price I saw?,billing
+"My progress in Data Structures isn't saving, is this a known bug?",technical
+I'm getting the quiz not saving my answers when I try to open Web Development Bootcamp on an iPad.,technical
+Can I book office hours with the instructor for Web Development Bootcamp next week?,booking
+Can you tell me why invoice INV-2091 shows $249 instead of the price I saw?,billing
+Can I book office hours with the instructor for Cloud Computing Basics next Monday?,booking
+Can you tell me why invoice INV-5502 shows $249 instead of the price I saw?,billing
+"My progress in Deep Learning Foundations isn't saving, is this a known bug?",technical
+Can I book office hours with the instructor for Advanced SQL Thursday morning?,booking
+Can I book office hours with the instructor for Deep Learning Foundations tomorrow at 5 PM?,booking
+What's the difference between the free and paid version of Data Structures?,general
+What's the difference between the free and paid version of Web Development Bootcamp?,general
+I'm getting the quiz not saving my answers when I try to open React from Scratch on Chrome on Windows.,technical
+The captions are out of sync in Cloud Computing Basics videos.,technical
+Is Thursday morning still free for a portfolio review session?,booking
+Can I get a receipt for invoice INV-3345?,billing
+Is next Monday still free for a portfolio review session?,booking
+Can I reserve a spot in the next week cohort kickoff call?,booking
+"I need an official invoice for my company reimbursement, order INV-2091.",billing
+I'm getting 'video failed to load' when I try to open Intro to Python on an iPad.,technical
+Can I get a receipt for invoice INV-1187?,billing
+I'm getting the app crashing on login when I try to open Deep Learning Foundations on an iPad.,technical
+I'm getting the quiz not saving my answers when I try to open React from Scratch on the Android app.,technical
+What's the difference between the free and paid version of Cloud Computing Basics?,general
+Can I book office hours with the instructor for React from Scratch tomorrow at 5 PM?,booking
+The captions are out of sync in Advanced SQL videos.,technical
+Can I book office hours with the instructor for Machine Learning 101 tomorrow at 5 PM?,booking
+Can I reserve a spot in the March 14th cohort kickoff call?,booking
+"I need an official invoice for my company reimbursement, order INV-8820.",billing
+I'm getting a 500 server error when I try to open Web Development Bootcamp on my iPhone.,technical
+Is this Friday still free for a portfolio review session?,booking
+"My progress in Intro to Python isn't saving, is this a known bug?",technical
+Who should I contact for accessibility accommodations?,general
+The captions are out of sync in Machine Learning 101 videos.,technical
+Can I book office hours with the instructor for Deep Learning Foundations this Friday?,booking
+The captions are out of sync in Deep Learning Foundations videos.,technical
+Can I book office hours with the instructor for Deep Learning Foundations Thursday morning?,booking
+"I need an official invoice for my company reimbursement, order INV-3345.",billing
+What's the difference between the free and paid version of React from Scratch?,general
+Can you tell me why invoice INV-5502 shows $15 instead of the price I saw?,billing
+"My progress in Advanced SQL isn't saving, is this a known bug?",technical
+Can I get a receipt for invoice INV-8820?,billing
+Can I book office hours with the instructor for React from Scratch Thursday morning?,booking
+How do I book a seat in the Web Development Bootcamp live workshop?,booking
+I need to reschedule my session that was set for the 22nd.,booking
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+Is there a student discount available for Intro to Python?,billing
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I can't upload my project file, it says a blank white screen.",technical
+"I need a refund for Intro to Python, order INV-2091.",billing
+What are the prerequisites for Deep Learning Foundations?,general
+"I need a refund for Intro to Python, order INV-3345.",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I need a refund for React from Scratch, order INV-1187.",billing
+The quiz timer freezes on Safari on Mac during Web Development Bootcamp.,technical
+I keep getting the quiz not saving my answers whenever I submit an assignment.,technical
+"I want to cancel my booking for this Friday, is that possible?",booking
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+How long does it typically take to finish Cloud Computing Basics?,general
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+"I need a refund for Machine Learning 101, order INV-5502.",billing
+The quiz timer freezes on Firefox during Deep Learning Foundations.,technical
+Is there a student discount available for Cloud Computing Basics?,billing
+The quiz timer freezes on Firefox during Cloud Computing Basics.,technical
+I keep getting the app crashing on login whenever I submit an assignment.,technical
+"I can't upload my project file, it says the app crashing on login.",technical
+"I need a refund for Web Development Bootcamp, order INV-1187.",billing
+"I need a refund for Advanced SQL, order INV-1187.",billing
+The quiz timer freezes on Firefox during Data Structures.,technical
+How long does it typically take to finish React from Scratch?,general
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I need a refund for Cloud Computing Basics, order INV-8820.",billing
+"I want to cancel my booking for March 14th, is that possible?",booking
+Is there a student discount available for Deep Learning Foundations?,billing
+"I can't upload my project file, it says the page freezing on submit.",technical
+How do I book a seat in the Intro to Python live workshop?,booking
+I need to reschedule my session that was set for next Monday.,booking
+What are the prerequisites for Cloud Computing Basics?,general
+"I can't upload my project file, it says Error 403.",technical
+How do I book a seat in the Machine Learning 101 live workshop?,booking
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-3345?",billing
+How do I book a seat in the Deep Learning Foundations live workshop?,booking
+How long does it typically take to finish Web Development Bootcamp?,general
+"I need a refund for Data Structures, order INV-5502.",billing
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+What are the prerequisites for Data Structures?,general
+"I can't upload my project file, it says 'video failed to load'.",technical
+"I need a refund for Intro to Python, order INV-1187.",billing
+How do I book a seat in the React from Scratch live workshop?,booking
+I need to reschedule my session that was set for Thursday morning.,booking
+What are the prerequisites for Intro to Python?,general
+The quiz timer freezes on my iPhone during Cloud Computing Basics.,technical
+The quiz timer freezes on Chrome on Windows during Deep Learning Foundations.,technical
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I want to cancel my booking for next week, is that possible?",booking
+The quiz timer freezes on Firefox during Advanced SQL.,technical
+The quiz timer freezes on my iPhone during Deep Learning Foundations.,technical
+I keep getting Error 403 whenever I submit an assignment.,technical
+Is there a student discount available for Machine Learning 101?,billing
+The quiz timer freezes on my iPhone during Machine Learning 101.,technical
+The quiz timer freezes on an iPad during Data Structures.,technical
+"I can't upload my project file, it says the quiz not saving my answers.",technical
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+The quiz timer freezes on the Android app during Web Development Bootcamp.,technical
+I keep getting 'video failed to load' whenever I submit an assignment.,technical
+"I need a refund for React from Scratch, order INV-5502.",billing
+How do I update my email address on file?,general
+"I need a refund for Machine Learning 101, order INV-1187.",billing
+How long does it typically take to finish Machine Learning 101?,general
+The quiz timer freezes on the Android app during React from Scratch.,technical
+The quiz timer freezes on my iPhone during Web Development Bootcamp.,technical
+How do I book a seat in the Data Structures live workshop?,booking
+How long does it typically take to finish Advanced SQL?,general
+I need to reschedule my session that was set for this Friday.,booking
+I keep getting the page freezing on submit whenever I submit an assignment.,technical
+Is there a student discount available for Advanced SQL?,billing
+The quiz timer freezes on my iPhone during Data Structures.,technical
+"I can't upload my project file, it says a 500 server error.",technical
+"I need a refund for Web Development Bootcamp, order INV-5502.",billing
+"I was charged $49.99 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+"I was charged $9.99 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+"I need a refund for Data Structures, order INV-1187.",billing
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+"I need a refund for Data Structures, order INV-2091.",billing
+The quiz timer freezes on Chrome on Windows during Intro to Python.,technical
+The quiz timer freezes on an iPad during Intro to Python.,technical
+I need to reschedule my session that was set for March 14th.,booking
+Is there a student discount available for React from Scratch?,billing
+I need to reschedule my session that was set for next week.,booking
+How do I book a seat in the Advanced SQL live workshop?,booking
+"I want to cancel my booking for next Monday, is that possible?",booking
+Is there a student discount available for Data Structures?,billing
+"I need a refund for Deep Learning Foundations, order INV-8820.",billing
+"I was charged $15 but I never confirmed the purchase, can you check invoice INV-8820?",billing
+What are the prerequisites for Web Development Bootcamp?,general
+"I need a refund for Cloud Computing Basics, order INV-3345.",billing
+What are the prerequisites for Advanced SQL?,general
+Is there a student discount available for Web Development Bootcamp?,billing
+"I need a refund for Intro to Python, order INV-8820.",billing
+"I want to cancel my booking for Thursday morning, is that possible?",booking
+How long does it typically take to finish Intro to Python?,general
+"I was charged $120 but I never confirmed the purchase, can you check invoice INV-1187?",billing
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-2091?",billing
+What are the prerequisites for React from Scratch?,general
+I need to reschedule my session that was set for tomorrow at 5 PM.,booking
+I keep getting a 500 server error whenever I submit an assignment.,technical
+How long does it typically take to finish Data Structures?,general
+The quiz timer freezes on Safari on Mac during Advanced SQL.,technical
+"I want to cancel my booking for the 22nd, is that possible?",booking
+How do I book a seat in the Cloud Computing Basics live workshop?,booking
+The quiz timer freezes on Safari on Mac during Machine Learning 101.,technical
+I keep getting a blank white screen whenever I submit an assignment.,technical
+"I was charged $249 but I never confirmed the purchase, can you check invoice INV-5502?",billing
+"I need a refund for Web Development Bootcamp, order INV-8820.",billing
+"I want to cancel my booking for tomorrow at 5 PM, is that possible?",booking
+What are the prerequisites for Machine Learning 101?,general
+How long does it typically take to finish Deep Learning Foundations?,general
